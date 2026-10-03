@@ -13,31 +13,31 @@ The tweets are stored as one zip file per day (366 files for 2020). I processed 
 ## Results
 
 ### #coronavirus by language
-![#coronavirus by language](reduced.lang_coronavirus.png)
+![#coronavirus by language](plots/reduced.lang_coronavirus.png)
 
 This plot shows the 10 languages whose tweets used #coronavirus most often in 2020. English is by far the most common, followed by Spanish. "und" is Twitter's code for tweets whose language it could not detect.
 
 ### #coronavirus by country
-![#coronavirus by country](reduced.country_coronavirus.png)
+![#coronavirus by country](plots/reduced.country_coronavirus.png)
 
-This plot shows the 10 countries that sent the most tweets using #coronavirus. The United States leads by far more than any other country.
+This plot shows the 10 countries that sent the most tweets using #coronavirus. The United States is far ahead of every other country.
 
 ### #코로나바이러스 by language
-![#코로나바이러스 by language](reduced.lang_코로나바이러스.png)
+![#코로나바이러스 by language](plots/reduced.lang_코로나바이러스.png)
 
 #코로나바이러스 is "coronavirus" in Korean. This plot shows which languages' tweets used the Korean hashtag the most.
 
 ### #코로나바이러스 by country
-![#코로나바이러스 by country](reduced.country_코로나바이러스.png)
+![#코로나바이러스 by country](plots/reduced.country_코로나바이러스.png)
 
 This plot shows which countries sent the most tweets using the Korean hashtag, which shows where it was used outside of English-language Twitter.
 
 ### Tweets per day: English hashtags
-![English coronavirus hashtags per day](covid_english.png)
+![English coronavirus hashtags per day](plots/covid_english.png)
 
 This plot compares three English hashtags people used for the virus, #coronavirus, #covid19 and #corona, and shows how the popularity of each changed day by day over 2020.
 
 ### Tweets per day: Korean, Japanese and Chinese hashtags
-![Korean, Japanese and Chinese coronavirus hashtags per day](covid_languages.png)
+![Korean, Japanese and Chinese coronavirus hashtags per day](plots/covid_languages.png)
 
 This plot shows the word "coronavirus" as a hashtag in Korean (#코로나바이러스), Japanese (#コロナウイルス) and Chinese (#冠状病毒), and how often each one was used on each day of 2020.
